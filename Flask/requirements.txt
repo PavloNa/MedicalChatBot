@@ -1,0 +1,6 @@
+accelerate==0.29.2
+peft==0.10.0
+bitsandbytes==0.43.1
+transformers==4.39.3
+trl==0.8.3
+Flask==3.0.3
